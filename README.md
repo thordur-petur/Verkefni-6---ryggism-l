@@ -49,7 +49,8 @@ none becouse i should have all the POWER!
 ### How would you give administrative privileges on the local computer to all the members of ITEStaff?
 no especaly if they are new to the job or if they are not one or two peple should only have full accsess
 ### How would you deny access to a file for everyone except the owner?
-a. a. a. you need to say the magic words( and also by grouping people into abrobret groups for there job)
+ah. ah. ah . you need to say the magic words( and also by grouping people into abrobret groups for there job)
 ## 13.3.4.6 Lab - Configure Windows Firewall (Tveir hópar saman)
 
 ## 13.4.1.10 Packet Tracer - Configure Wireless Security
+this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun. this is actualy fun just can get repetitive
