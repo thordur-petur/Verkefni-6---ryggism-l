@@ -53,4 +53,4 @@ ah. ah. ah . you need to say the magic words( and also by grouping people into a
 ## 13.3.4.6 Lab - Configure Windows Firewall (Tveir hópar saman)
 
 ## 13.4.1.10 Packet Tracer - Configure Wireless Security
-this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun this is fun. this is actualy fun just can get repetitive
+
